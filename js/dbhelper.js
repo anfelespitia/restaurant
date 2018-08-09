@@ -9,7 +9,7 @@ class DBHelper {
    */
   static get DATABASE_URL() {
     const port = 80 // Change this to your server port
-    return `https://romerous.github.io/mws-restaurant-stage-1-google-maps/data/restaurants.json`;
+    return `https://romerous.github.io/restaurant/data/restaurants.json`;
   }
 
   /**
